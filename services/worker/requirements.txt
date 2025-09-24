@@ -1,0 +1,7 @@
+pika
+boto3
+pypdf
+python-dotenv
+requests
+python-magic
+pdfcpu
