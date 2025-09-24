@@ -1,7 +1,10 @@
 # pdf-platform
 a microservice-based PDF platform
+
 Repo layout
+
 pdf-platform/
+
 ├─ infra/
 │ ├─ k8s/
 │ │ ├─ api-deployment.yaml
